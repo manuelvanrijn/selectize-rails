@@ -33,10 +33,10 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 ## Changes
 
-    | Version | Notes                                                                     |
-    |---------+---------------------------------------------------------------------------|
-    |   0.6.1 | update and set gem version equal to selectize.js version                  |
-    |   0.1.0 | Initial release with plugin version 0.1.5                                 |
+| Version | Notes                                                                               |
+| -------:| ----------------------------------------------------------------------------------- |
+|   0.6.1 | Update and set gem version equal to selectize.js version                            |
+|   0.1.0 | Initial release                                                                     |
 
 ## License
 
