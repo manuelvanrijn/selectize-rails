@@ -35,7 +35,8 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 | Version | Notes                                                                               |
 | -------:| ----------------------------------------------------------------------------------- |
-|   0.6.4 | Update to latest version of selectize.js                                            |
+|  0.6.14 | Update to v0.6.14 of selectize.js                                                   |
+|   0.6.4 | Update to v0.6.4 of selectize.js                                                    |
 |   0.6.1 | Update and set gem version equal to selectize.js version                            |
 |   0.1.0 | Initial release                                                                     |
 
