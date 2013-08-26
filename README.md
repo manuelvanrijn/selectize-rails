@@ -25,7 +25,13 @@ In your `application.css`, include the following:
 
 ```css
  *= require selectize
+ *= require selectize.default
 ```
+
+### Themes
+
+To include additional theme's you can replace the `selectize.default` for on of the [theme files](https://github.com/brianreavis/selectize.js/tree/master/dist/css)
+
 
 ## Examples
 
@@ -33,12 +39,13 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 ## Changes
 
-| Version | Notes                                                                               |
-| -------:| ----------------------------------------------------------------------------------- |
-|  0.6.14 | Update to v0.6.14 of selectize.js                                                   |
-|   0.6.4 | Update to v0.6.4 of selectize.js                                                    |
-|   0.6.1 | Update and set gem version equal to selectize.js version                            |
-|   0.1.0 | Initial release                                                                     |
+| Version | Notes                                                       |
+| -------:| ----------------------------------------------------------- |
+|   0.7.0 | Update to v0.7.0 of selectize.js                            |
+|  0.6.14 | Update to v0.6.14 of selectize.js                           |
+|   0.6.4 | Update to v0.6.4 of selectize.js                            |
+|   0.6.1 | Update and set gem version equal to selectize.js version    |
+|   0.1.0 | Initial release                                             |
 
 ## License
 
