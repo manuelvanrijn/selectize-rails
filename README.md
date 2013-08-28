@@ -41,6 +41,7 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 | Version | Notes                                                       |
 | -------:| ----------------------------------------------------------- |
+|   0.7.2 | Update to v0.7.2 of selectize.js                            |
 |   0.7.0 | Update to v0.7.0 of selectize.js                            |
 |  0.6.14 | Update to v0.6.14 of selectize.js                           |
 |   0.6.4 | Update to v0.6.4 of selectize.js                            |

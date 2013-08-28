@@ -6,7 +6,7 @@ git clone https://github.com/brianreavis/selectize.js.git tmp_vendor
 
 # Copy files
 echo "Copying selectize.js"
-cp tmp_vendor/dist/js/selectize.js vendor/assets/javascripts/selectize.js
+cp tmp_vendor/dist/js/standalone/selectize.js vendor/assets/javascripts/selectize.js
 echo "Copying css files"
 cp tmp_vendor/dist/css/*.css vendor/assets/stylesheets/
 
