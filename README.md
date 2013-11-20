@@ -41,20 +41,13 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 | Version | Notes                                                       |
 | -------:| ----------------------------------------------------------- |
+|   0.8.4 | Update to v0.8.4 of selectize.js                            |
 |   0.8.3 | Update to v0.8.3 of selectize.js                            |
 |   0.8.1 | Update to v0.8.1 of selectize.js                            |
 |   0.8.0 | Update to v0.8.0 of selectize.js                            |
 |   0.7.7 | Update to v0.7.7 of selectize.js                            |
-|   0.7.6 | Update to v0.7.6 of selectize.js                            |
-|   0.7.5 | Update to v0.7.5 of selectize.js                            |
-|   0.7.4 | Update to v0.7.4 of selectize.js                            |
-|   0.7.3 | Update to v0.7.3 of selectize.js                            |
-|   0.7.2 | Update to v0.7.2 of selectize.js                            |
-|   0.7.0 | Update to v0.7.0 of selectize.js                            |
-|  0.6.14 | Update to v0.6.14 of selectize.js                           |
-|   0.6.4 | Update to v0.6.4 of selectize.js                            |
-|   0.6.1 | Update and set gem version equal to selectize.js version    |
-|   0.1.0 | Initial release                                             |
+
+[older](CHANGELOG.md)
 
 ## License
 
