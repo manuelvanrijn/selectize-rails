@@ -1,5 +1,5 @@
 /**
- * selectize.bootstrap3.css (v0.8.4) - Bootstrap 3 Theme
+ * selectize.bootstrap3.css (v0.8.5) - Bootstrap 3 Theme
  * Copyright (c) 2013 Brian Reavis & contributors
  *
  * Licensed under the Apache License, Version 2.0 (the "License"); you may not use this
@@ -297,12 +297,12 @@
 }
 
 .selectize-dropdown .active {
-  color: #ffffff;
-  background-color: #428bca;
+  color: #262626;
+  background-color: #f5f5f5;
 }
 
 .selectize-dropdown .active.create {
-  color: #ffffff;
+  color: #262626;
 }
 
 .selectize-dropdown .create {
