@@ -30,7 +30,7 @@ In your `application.css`, include the following:
 
 ### Themes
 
-To include additional theme's you can replace the `selectize.default` for on of the [theme files](https://github.com/brianreavis/selectize.js/tree/master/dist/css)
+To include additional theme's you can replace the `selectize.default` for one of the [theme files](https://github.com/brianreavis/selectize.js/tree/master/dist/css)
 
 
 ## Examples
