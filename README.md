@@ -41,11 +41,11 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 | Version | Notes                                                       |
 | -------:| ----------------------------------------------------------- |
+|   0.9.0 | Update to v0.9.0 of selectize.js                            |
 |   0.8.5 | Update to v0.8.5 of selectize.js                            |
 |   0.8.4 | Update to v0.8.4 of selectize.js                            |
 |   0.8.3 | Update to v0.8.3 of selectize.js                            |
 |   0.8.1 | Update to v0.8.1 of selectize.js                            |
-|   0.8.0 | Update to v0.8.0 of selectize.js                            |
 
 [older](CHANGELOG.md)
 
