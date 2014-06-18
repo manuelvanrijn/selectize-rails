@@ -2,6 +2,7 @@
 
 | Version | Notes                                                       |
 | -------:| ----------------------------------------------------------- |
+|  0.10.1 | Update to v0.10.1 of selectize.js                           |
 |   0.9.1 | Update to v0.9.1 of selectize.js                            |
 |   0.9.0 | Update to v0.9.0 of selectize.js                            |
 |   0.8.5 | Update to v0.8.5 of selectize.js                            |
