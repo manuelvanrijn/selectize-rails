@@ -12,6 +12,6 @@ cp tmp_vendor/dist/css/*.css vendor/assets/stylesheets/
 
 # Delete vendor repo
 echo "Removing cloned vendor repo"
-# rm -rf tmp_vendor
+rm -rf tmp_vendor
 
 echo "Finished... You'll need to commit the changes. You should consider updating the changelog and gem version number"
