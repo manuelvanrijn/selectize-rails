@@ -30,12 +30,12 @@ In your `application.css`, include the following:
 
 ### Themes
 
-To include additional theme's you can replace the `selectize.default` for one of the [theme files](https://github.com/brianreavis/selectize.js/tree/master/dist/css)
+To include additional theme's you can replace the `selectize.default` for one of the [theme files](https://github.com/selectize/selectize.js/tree/master/dist/css)
 
 
 ## Examples
 
-See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) for examples how to use the plugin
+See the [demo page](http://selectize.github.io/selectize.js/) for examples how to use the plugin
 
 ## Changes
 
@@ -56,7 +56,7 @@ See the [demo page of Brian Reavis](http://brianreavis.github.io/selectize.js/) 
 
 ## License
 
-* The [selectize.js](http://brianreavis.github.io/selectize.js/) plugin is licensed under the
+* The [selectize.js](http://selectize.github.io/selectize.js/) plugin is licensed under the
 [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
 * The [selectize-rails](https://github.com/manuelvanrijn/selectize-rails) project is
  licensed under the [MIT License](http://opensource.org/licenses/mit-license.html)
