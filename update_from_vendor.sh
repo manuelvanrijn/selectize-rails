@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # Checkout vendor repo
-echo "Cloning brianreavis/selectize.js github repo into tmp_vendor"
-git clone https://github.com/brianreavis/selectize.js.git tmp_vendor
+echo "Cloning selectize/selectize.js github repo into tmp_vendor"
+git clone https://github.com/selectize/selectize.js.git tmp_vendor
 
 # Copy files
 echo "Copying selectize.js"
