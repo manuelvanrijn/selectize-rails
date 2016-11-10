@@ -41,17 +41,13 @@ See the [demo page](http://selectize.github.io/selectize.js/) for examples how t
 
 | Version  | Notes                                                       |
 | --------:| ----------------------------------------------------------- |
+|   0.12.4 | Update to v0.12.4 of selectize.js                           |
 |   0.12.3 | Update to v0.12.3 of selectize.js                           |
 |   0.12.2 | Update to v0.12.2 of selectize.js                           |
 |   0.12.1 | Update to v0.12.1 of selectize.js                           |
 |   0.12.0 | Update to v0.12.0 of selectize.js                           |
 |   0.11.2 | Update to v0.11.2 of selectize.js                           |
 |   0.11.0 | Update to v0.11.0 of selectize.js                           |
-|   0.9.1  | Update to v0.9.1 of selectize.js                            |
-|   0.9.0  | Update to v0.9.0 of selectize.js                            |
-|   0.8.5  | Update to v0.8.5 of selectize.js                            |
-|   0.8.4  | Update to v0.8.4 of selectize.js                            |
-|   0.8.3  | Update to v0.8.3 of selectize.js                            |
 
 [older](CHANGELOG.md)
 

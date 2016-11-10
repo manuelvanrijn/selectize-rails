@@ -2,6 +2,7 @@
 
 | Version  | Notes                                                       |
 | --------:| ----------------------------------------------------------- |
+|   0.12.4 | Update to v0.12.4 of selectize.js                           |
 |   0.12.3 | Update to v0.12.3 of selectize.js                           |
 |   0.12.2 | Update to v0.12.2 of selectize.js                           |
 |   0.12.1 | Update to v0.12.1 of selectize.js                           |
