@@ -28,6 +28,13 @@ In your `application.css`, include the following:
  *= require selectize.default
 ```
 
+Or if you like, you could use import instead
+
+```sass
+@import 'selectize'
+@import 'selectize.bootstrap3'
+```
+
 ### Themes
 
 To include additional theme's you can replace the `selectize.default` for one of the [theme files](https://github.com/selectize/selectize.js/tree/master/dist/css)
