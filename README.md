@@ -48,6 +48,7 @@ See the [demo page](http://selectize.github.io/selectize.js/) for examples how t
 
 | Version    | Notes                                                       |
 | ----------:| ----------------------------------------------------------- |
+|   0.12.5   | Update to v0.12.5 of selectize.js                           |
 |   0.12.4.1 | Moved css files to scss to be able to use `@import`         |
 |   0.12.4   | Update to v0.12.4 of selectize.js                           |
 |   0.12.3   | Update to v0.12.3 of selectize.js                           |

@@ -1,5 +1,5 @@
 module Selectize
   module Rails
-    VERSION = "0.12.4.1"
+    VERSION = "0.12.5"
   end
 end
