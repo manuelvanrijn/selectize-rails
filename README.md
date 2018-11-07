@@ -1,6 +1,6 @@
 # selectize-rails [![Gem Version](https://badge.fury.io/rb/selectize-rails.png)](http://badge.fury.io/rb/selectize-rails)
 
-selectize-rails provides the [selectize.js](http://brianreavis.github.io/selectize.js/)
+selectize-rails provides the [selectize.js](https://selectize.github.io/selectize.js/)
 plugin as a Rails engine to use it within the asset pipeline.
 
 ## Installation
