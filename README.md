@@ -48,15 +48,11 @@ See the [demo page](http://selectize.github.io/selectize.js/) for examples how t
 
 | Version    | Notes                                                       |
 | ----------:| ----------------------------------------------------------- |
+|   0.12.6   | Update to v0.12.6 of selectize.js                           |
 |   0.12.5   | Update to v0.12.5 of selectize.js                           |
 |   0.12.4.1 | Moved css files to scss to be able to use `@import`         |
 |   0.12.4   | Update to v0.12.4 of selectize.js                           |
 |   0.12.3   | Update to v0.12.3 of selectize.js                           |
-|   0.12.2   | Update to v0.12.2 of selectize.js                           |
-|   0.12.1   | Update to v0.12.1 of selectize.js                           |
-|   0.12.0   | Update to v0.12.0 of selectize.js                           |
-|   0.11.2   | Update to v0.11.2 of selectize.js                           |
-|   0.11.0   | Update to v0.11.0 of selectize.js                           |
 
 [older](CHANGELOG.md)
 
