@@ -2,6 +2,7 @@
 
 | Version    | Notes                                                       |
 | ----------:| ----------------------------------------------------------- |
+|   0.13.3   | Update to v0.13.3 of selectize.js                           |
 |   0.12.6   | Update to v0.12.6 of selectize.js                           |
 |   0.12.5   | Update to v0.12.5 of selectize.js                           |
 |   0.12.4.1 | Moved css files to scss to be able to use `@import`         |
